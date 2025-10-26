@@ -54,6 +54,11 @@ Installation
 
 See the [setup guide](https://mailinabox.email/guide.html) for detailed, user-friendly instructions.
 
+For a quick start, run this on your fresh Ubuntu:
+```BASH
+curl -s https://mailinabox.email/setup.sh | sudo -E bash
+```
+
 For experts, start with a completely fresh (really, I mean it) Ubuntu 22.04 LTS 64-bit machine. On the machine...
 
 Clone this repository and checkout the tag corresponding to the most recent release (which you can find in the tags or releases lists on GitHub):
